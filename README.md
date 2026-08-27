@@ -2,7 +2,7 @@
 
 # Omar Dana
 
-**Computer Engineering Student · 42 Beirut Level 10.26 · Lebanese American University**
+**Computer Engineering Student · 42 Beirut · Lebanese American University**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar.dana@example.com)
@@ -16,26 +16,7 @@
 
 ## About
 
-Systems and backend engineer working through 42 Beirut's core curriculum while pursuing a Computer Engineering degree at LAU. I build things at the lower layers — Unix shells, HTTP servers, computer vision pipelines — and connect them upward into full-stack APIs and containerized systems. Comfortable across C, C++, Python, and Java, with a growing interest in machine learning and embedded deployment.
-
-Currently at **Level 10.26** in the 42 Core Curriculum. Completed the Cybersecurity and Mobile Development advanced piscines.
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ApparentlyVenus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=bb9af7&icon_color=bb9af7&text_color=c9d1d9"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ApparentlyVenus&layout=normal&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bb9af7&text_color=c9d1d9&langs_count=20&hide=javascript,html"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ApparentlyVenus&theme=tokyonight&hide_border=true&background=0d1117&stroke=bb9af7&ring=bb9af7&fire=f7768e&currStreakLabel=bb9af7&sideLabels=c9d1d9&dates=8b949e)](https://git.io/streak-stats)
-
-</div>
+42 Beirut core curriculum + Computer Engineering at LAU. I like low-level stuff, C/C++, getting into networking, and overall enjoy the sweet spot between the software and the hardware. I also do work in web development and have worked in many stacks, from python to Java Enterprise and Spring. I like Linux, use it as my daily drive and cannot ever go back to Windows.
 
 ---
 
