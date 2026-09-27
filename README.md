@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-dana)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar.t.dana@hotmail.com)
-[![42 Profile](https://img.shields.io/badge/42_Beirut-000000?style=for-the-badge&logo=42&logoColor=white)](https://github.com/ApparentlyVenus)
+[![42 Profile](https://img.shields.io/badge/42_Beirut-000000?style=for-the-badge&logo=42&logoColor=white)](https://42beirut.com)
 
 *Pushing the boulder up the hill, watching it roll down, pushing it up again.*
 
