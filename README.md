@@ -40,6 +40,6 @@
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,fastapi,spring,angular,opencv,linux,docker,mysql,git&perline=7)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,fastapi,spring,angular,opencv,linux,docker,mysql,gits)](https://skillicons.dev)
 
 </div>
