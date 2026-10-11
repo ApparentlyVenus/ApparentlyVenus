@@ -43,20 +43,3 @@
 [![Skills](https://skillicons.dev/icons?i=c,cpp,python,java,ts,opencv,pytorch,fastapi,spring,angular,linux,docker,mysql,mariadb,git)](https://skillicons.dev)
 
 </div>
-
----
-
-## Certifications & Workshops
-
-- Cybersecurity Piscine — 42 Beirut `Oct 2025`
-- Mobile Development Piscine — 42 Beirut `Nov 2025`
-
----
-
-## Profile Views
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=ApparentlyVenus&color=bb9af7&style=flat-square&label=Profile+Views)
-
-</div>
